@@ -1,9 +1,12 @@
 **Student Result Analysis and Management System**
+
 A fully designed web-based application for managing student results, student data, subjects, and academic analytics.
 This repository documents the system’s architecture, features, and implementation details.
 
 **Project Overview**
+
 The system streamlines result management for educational institutions using two modules:
+
 
 Admin Module
   Add and remove students
@@ -15,9 +18,11 @@ Admin Module
   Generate visual performance analytics (graphs and reports)
   Change admin login password
 
+
 Student Module
   Students can view their results by entering valid details
   Subject-wise marks display and overall summary
+
 
 **Technologies Used**
   Frontend: HTML, CSS, JavaScript
